@@ -1,4 +1,4 @@
-[OBJECT:CREATURE]creature_arkhanos_normal_medium
+creature_arkhanos_normal_medium
 -
 Any Temperate-5/5
 Forest Temperate Conifer-5/5

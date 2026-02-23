@@ -1,4 +1,4 @@
-creature_arkhanos_normal_megabeast
+creature_arkhanos_savage_sentient
 -
 Any Temperate-1/1
 Forest Temperate Conifer-1/1

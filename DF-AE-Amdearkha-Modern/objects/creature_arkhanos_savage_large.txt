@@ -1,4 +1,4 @@
-creature_arkhanos_normal_large
+creature_arkhanos_savage_large
 -
 Any Temperate-5/5
 Forest Temperate Conifer-5/5
