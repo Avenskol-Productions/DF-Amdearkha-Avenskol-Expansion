@@ -1,0 +1,31 @@
+creature_arkhanos_normal_domestic
+-
+Any Temperate-1/1
+Forest Temperate Conifer-1/1
+Forest Temperate Broadleaf-1/1
+Grassland Temperate-1/1
+Savanna Temperate-1/1
+Shrubland Temperate-1/1
+-
+[OBJECT:CREATURE]
+Any Temperate-1/1
+
+
+
+Forest Temperate Conifer-1/1
+
+
+
+Forest Temperate Broadleaf-1/1
+
+
+
+Grassland Temperate-1/1
+
+
+
+Savanna Temperate-1/1
+
+
+
+Shrubland Temperate-1/1
